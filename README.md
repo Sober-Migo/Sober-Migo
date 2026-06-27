@@ -5,8 +5,8 @@
 <h1 align="center">Hi, I'm Ahmed Magdy Hassan 👋</h1>
 <h3 align="center">AI/ML & High-Performance Backend Infrastructure Engineer</h3>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://www.linkedin.com/in/ahmed-magdy-50808a250" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Magdy LinkedIn" height="30" width="40" />
   </a>
