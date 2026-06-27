@@ -7,19 +7,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-magdy-50808a250" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Magdy LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/Sober-Migo" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ahmed Magdy GitHub" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/ahmd.mjdy.715159/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ahmed Magdy Facebook" height="30" width="40" />
-  </a>
-  <a href="https://x.com/Sober_Migo" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ahmed Magdy Twitter" height="30" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/ahmed-magdy-50808a250" target="_blank" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Magdy LinkedIn" height="30" width="40" /></a>
+  <a href="https://x.com/Sober_Migo" target="_blank" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ahmed Magdy X" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/ahmd.mjdy.715159/" target="_blank" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ahmed Magdy Facebook" height="30" width="40" /></a>
+  <a href="https://github.com/Sober-Migo/" target="_blank" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ahmed Magdy GitHub" height="30" width="40" /></a>
 </p>
+
 
 <p align="center">
   <img src="https://count.getloli.com/get/@Sober-Migo?theme=rule34" alt="Visitor Count" />
