@@ -7,12 +7,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-magdy-50808a250" target="_blank" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Magdy LinkedIn" height="30" width="40" /></a>
-  <a href="https://x.com/Sober_Migo" target="_blank" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ahmed Magdy X" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/ahmd.mjdy.715159/" target="_blank" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ahmed Magdy Facebook" height="30" width="40" /></a>
-  <a href="https://github.com/Sober-Migo/" target="_blank" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ahmed Magdy GitHub" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-magdy-50808a250" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://x.com/Sober_Migo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/ahmed4magdy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+  <a href="https://huggingface.co/am4magdy" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="30" width="30" /></a>
+  <a href="https://github.com/Sober-Migo/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
-
 
 <p align="center">
   <img src="https://count.getloli.com/get/@Sober-Migo?theme=rule34" alt="Visitor Count" />
@@ -23,16 +23,30 @@
 ### 💻 About Me
 A Computer Science graduate passionate about building production-grade AI pipelines and optimizing the software-hardware infrastructure beneath them. I don't just train models; I bridge the gap between high-level Deep Learning architectures and low-level system efficiency—focusing on concurrency, VRAM optimization, and seamless backend deployments.
 
+**Foundations first.** Completed the full **Machine Learning → Deep Learning → NLP** path (DeepLearning.AI / Stanford Online on Coursera), then applied that stack to real systems: speech, multimodal fusion, and high-throughput backends.
+
 ---
 
 ### 🛠️ Core Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,docker,linux,git,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,linux,git,cpp" />
 </p>
 
 *   **Systems Architecture:** Concurrency & Asynchronous Pipelines, Multi-GPU/CPU Resource Allocation, Containerization (Docker/Docker Compose), Low-Level Binary Data Parsing.
-*   **AI/ML Ecosystem:** Audio Signal Processing, Deep Learning Pipelines, Speech & Language Models (ASR/SER/NLP), PyTorch, TensorFlow, Keras, Hugging Face (Whisper, Wav2Vec2), Qwen LLMs, Scikit-Learn, Librosa, SoundFile.
+*   **AI/ML Ecosystem:** Deep Learning Pipelines, Speech & Language Models (ASR/SER/NLP), Transformers, PyTorch, TensorFlow, Keras, Hugging Face (Whisper, Wav2Vec2, Transformers), Qwen LLMs, Scikit-Learn, Librosa, SoundFile, NLTK.
+
+---
+
+### 🎓 Specializations Completed
+
+| Specialization | Focus | Repo |
+|----------------|--------|------|
+| **[Machine Learning Specialization](https://github.com/Sober-Migo/Coursera_Machine_Learning_Specialization)** | Supervised learning, advanced algorithms, unsupervised learning & RL | [Stanford Online + DeepLearning.AI](https://github.com/Sober-Migo/Coursera_Machine_Learning_Specialization) |
+| **[Deep Learning Specialization](https://github.com/Sober-Migo/Coursera_Deep_Learning_Specialization)** | Neural nets, CNNs, sequence models, structuring ML projects | [DeepLearning.AI](https://github.com/Sober-Migo/Coursera_Deep_Learning_Specialization) |
+| **[Natural Language Processing Specialization](https://github.com/Sober-Migo/NLP_Specialization)** | Vector spaces, probabilistic models, RNNs/LSTMs, attention & transformers | [DeepLearning.AI](https://github.com/Sober-Migo/NLP_Specialization) |
+
+**Skills gained:** supervised & unsupervised learning · CNNs · RNNs / LSTMs · attention · transformers · word embeddings · sentiment analysis · NER · machine translation · optimization & regularization · end-to-end ML workflows
 
 ---
 
@@ -79,4 +93,6 @@ A Computer Science graduate passionate about building production-grade AI pipeli
 ## 🤝 Let's Connect!
 *   **Email:** ahmed022magdy@gmail.com
 *   **LinkedIn:** <a href="https://www.linkedin.com/in/ahmed-magdy-50808a250" target="_blank" rel="noopener noreferrer">linkedin.com/in/ahmed-magdy-50808a250</a>
+*   **Kaggle:** <a href="https://www.kaggle.com/ahmed4magdy" target="_blank" rel="noopener noreferrer">kaggle.com/ahmed4magdy</a>
+*   **Hugging Face:** <a href="https://huggingface.co/am4magdy" target="_blank" rel="noopener noreferrer">huggingface.co/am4magdy</a>
 *   **GitHub:** <a href="https://github.com/Sober-Migo" target="_blank" rel="noopener noreferrer">github.com/Sober-Migo</a>
