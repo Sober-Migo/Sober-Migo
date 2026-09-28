@@ -94,5 +94,5 @@ A Computer Science graduate passionate about building production-grade AI pipeli
 *   **Email:** ahmed022magdy@gmail.com
 *   **LinkedIn:** <a href="https://www.linkedin.com/in/ahmed-magdy-50808a250" target="_blank" rel="noopener noreferrer">linkedin.com/in/ahmed-magdy-50808a250</a>
 *   **Kaggle:** <a href="https://www.kaggle.com/ahmed4magdy" target="_blank" rel="noopener noreferrer">kaggle.com/ahmed4magdy</a>
-*   **Hugging Face:** <a href="https://huggingface.co/Sober-Migo" target="_blank" rel="noopener noreferrer">huggingface.co/am4magdy</a>
+*   **Hugging Face:** <a href="https://huggingface.co/Sober-Migo" target="_blank" rel="noopener noreferrer">huggingface.co/Sober-Migo</a>
 *   **GitHub:** <a href="https://github.com/Sober-Migo" target="_blank" rel="noopener noreferrer">github.com/Sober-Migo</a>
