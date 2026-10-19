@@ -106,6 +106,18 @@ FastAPI speech backend: chunking, multi-model Egyptian Arabic analysis, Docker-r
 
 ---
 
+### Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sober-Migo/Sober-Migo/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sober-Migo/Sober-Migo/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sober-Migo/Sober-Migo/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ### Find me
 
 <p align="left">
