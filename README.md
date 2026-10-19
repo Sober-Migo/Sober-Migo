@@ -1,98 +1,123 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="wave"/>
 </p>
 
-<h1 align="center">Hi, I'm Ahmed Magdy Hassan 👋</h1>
-<h3 align="center">AI/ML & High-Performance Backend Infrastructure Engineer</h3>
+<h1 align="center">Hi, I'm Ahmed Magdy Hassan</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-magdy-50808a250" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://x.com/Sober_Migo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/ahmed4magdy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-  <a href="https://huggingface.co/am4magdy" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="30" width="30" /></a>
-  <a href="https://github.com/Sober-Migo/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<h3 align="center">AI / ML Engineer · Speech · LLMs · RAG · Backend</h3>
+
+<div align="center">
+  <a href="https://github.com/Sober-Migo">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+speech+%26+multimodal+AI;RAG+%2B+LangChain+%2B+Groq;FastAPI+%C2%B7+PyTorch+%C2%B7+Docker;Fayoum+University+%C2%B7+FCAI" alt="Typing SVG" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="mailto:ahmed022magdy@gmail.com"><img src="https://img.shields.io/badge/Email-ahmed022magdy%40gmail.com-0D4430?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-magdy-50808a250"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Sober-Migo"><img src="https://img.shields.io/badge/GitHub-Sober--Migo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Sober-Migo?theme=rule34" alt="Visitor Count" />
+  <a href="https://www.kaggle.com/ahmed4magdy"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
+  <a href="https://huggingface.co/Sober-Migo"><img src="https://img.shields.io/badge/Hugging%20Face-Sober--Migo-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
+  <a href="https://x.com/Sober_Migo"><img src="https://img.shields.io/badge/X-Sober__Migo-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Sober-Migo&style=flat-square&color=0D4430" alt="Profile views"/>
 </p>
 
 ---
 
-### 💻 About Me
-A Computer Science graduate passionate about building production-grade AI pipelines and optimizing the software-hardware infrastructure beneath them. I don't just train models; I bridge the gap between high-level Deep Learning architectures and low-level system efficiency—focusing on concurrency, VRAM optimization, and seamless backend deployments.
+### About me
 
-**Foundations first.** Completed the full **Machine Learning → Deep Learning → NLP** path (DeepLearning.AI / Stanford Online on Coursera), then applied that stack to real systems: speech, multimodal fusion, and high-throughput backends.
+Computer Science student at **Fayoum University — Faculty of Computers and Artificial Intelligence** (2022–2026).  
+I build **production-oriented AI systems**: speech analytics, multimodal pipelines, RAG apps, and FastAPI backends — with attention to async design, resource limits, and clean deployment.
+
+**Path:** Machine Learning → Deep Learning → NLP (DeepLearning.AI) → **IBM Generative AI Engineering with LLMs** (RAG, LangChain, PEFT/LoRA).
 
 ---
 
-### 🛠️ Core Tech Stack
+### Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,linux,git,cpp,vscode&perline=9" alt="Skills"/>
+</p>
+
+**Focus areas**
+- **Speech & multimodal:** ASR, SER, Egyptian Arabic pipelines, Whisper / Wav2Vec2 / transformers  
+- **LLMs & RAG:** LangChain, Chroma, Groq, retrieval + grounded generation  
+- **Backend / MLOps-minded:** FastAPI, async jobs, Docker, GPU-aware inference  
+
+---
+
+### Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### RAG — PDF Q&A
+[Sober-Migo/RAG](https://github.com/Sober-Migo/RAG)
+
+PDF → local ONNX embeddings → Chroma → **Groq** generation · Gradio Markdown UI.
+
+<img src="https://raw.githubusercontent.com/Sober-Migo/RAG/main/rag%20demo.gif" alt="RAG demo" width="100%"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### PACE — Psychiatric Speech Analytics
+[PACE-Egyptian_Psychiatric_Speech_Analytics](https://github.com/Sober-Migo/PACE-Egyptian_Psychiatric_Speech_Analytics)
+
+FastAPI speech backend: chunking, multi-model Egyptian Arabic analysis, Docker-ready pipeline for clinical-style audio workflows.
+
+</td>
+</tr>
+</table>
+
+**Also:** [HelloML](https://github.com/Sober-Migo/HelloML) · course labs for [ML](https://github.com/Sober-Migo/Coursera_Machine_Learning_Specialization) · [Deep Learning](https://github.com/Sober-Migo/Coursera_Deep_Learning_Specialization) · [NLP](https://github.com/Sober-Migo/NLP_Specialization) · [IBM GenAI with LLMs](https://github.com/Sober-Migo/IBM_Generative_AI_Engineering_with_LLMs_Specialization)
+
+---
+
+### Specializations
+
+| Track | Repo |
+|--------|------|
+| Machine Learning Specialization (Stanford / DeepLearning.AI) | [Coursera_Machine_Learning_Specialization](https://github.com/Sober-Migo/Coursera_Machine_Learning_Specialization) |
+| Deep Learning Specialization | [Coursera_Deep_Learning_Specialization](https://github.com/Sober-Migo/Coursera_Deep_Learning_Specialization) |
+| NLP Specialization | [NLP_Specialization](https://github.com/Sober-Migo/NLP_Specialization) |
+| IBM Generative AI Engineering with LLMs | [IBM_Generative_AI_Engineering_with_LLMs_Specialization](https://github.com/Sober-Migo/IBM_Generative_AI_Engineering_with_LLMs_Specialization) |
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sober-Migo&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sober-Migo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sober-Migo&theme=tokyonight&hide_border=true" alt="Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sober-Migo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+</p>
+
+---
+
+### Find me
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,linux,git,cpp" />
-</p>
-
-*   **Systems Architecture:** Concurrency & Asynchronous Pipelines, Multi-GPU/CPU Resource Allocation, Containerization (Docker/Docker Compose), Low-Level Binary Data Parsing.
-*   **AI/ML Ecosystem:** Deep Learning Pipelines, Speech & Language Models (ASR/SER/NLP), Transformers, PyTorch, TensorFlow, Keras, Hugging Face (Whisper, Wav2Vec2, Transformers), Qwen LLMs, Scikit-Learn, Librosa, SoundFile, NLTK.
-
----
-
-### 🎓 Specializations Completed
-
-| Specialization | Focus | Repo |
-|----------------|--------|------|
-| **[Machine Learning Specialization](https://github.com/Sober-Migo/Coursera_Machine_Learning_Specialization)** | Supervised learning, advanced algorithms, unsupervised learning & RL | [Stanford Online + DeepLearning.AI](https://github.com/Sober-Migo/Coursera_Machine_Learning_Specialization) |
-| **[Deep Learning Specialization](https://github.com/Sober-Migo/Coursera_Deep_Learning_Specialization)** | Neural nets, CNNs, sequence models, structuring ML projects | [DeepLearning.AI](https://github.com/Sober-Migo/Coursera_Deep_Learning_Specialization) |
-| **[Natural Language Processing Specialization](https://github.com/Sober-Migo/NLP_Specialization)** | Vector spaces, probabilistic models, RNNs/LSTMs, attention & transformers | [DeepLearning.AI](https://github.com/Sober-Migo/NLP_Specialization) |
-
-**Skills gained:** supervised & unsupervised learning · CNNs · RNNs / LSTMs · attention · transformers · word embeddings · sentiment analysis · NER · machine translation · optimization & regularization · end-to-end ML workflows
-
----
-
-## 🚀 Featured Engineering Projects
-
-### 🎙️ 1. Asynchronous AI Audio Engine (Graduation Project)
-*An enterprise-ready AI backend microservice engineered to power a therapist-patient mental health platform through automated, high-fidelity vocal analysis.*
-
-*   **The Architecture:** Built a high-performance RESTful API via **FastAPI** and **Uvicorn** designed to process large, compute-heavy clinical audio recordings asynchronously.
-*   **Concurrency & Stability:** Implemented asynchronous task queues using **FastAPI BackgroundTasks** to ingest and process files sequentially, eliminating server-side timeouts and managing high-concurrency requests safely.
-*   **Memory Optimization:** Designed an in-memory dynamic audio-slicing pipeline using **Librosa** and **SoundFile** to stream continuous text chunks, drastically lowering the peak VRAM footprint on execution hardware.
-*   **Multi-Model Ingestion Pipeline:** Deployed an offline Egyptian-Arabic Whisper model (`egyptian-whisper-v3`) running on parallel GPU streams, integrated alongside a `Wav2Vec2` architecture for emotion detection and a `CAMeLBERT` sentiment pipeline. Structured clinical summaries are generated via a localized `Qwen LLM` configured with token suppression.
-*   **Deployment:** Containerized the entire infrastructure using **Docker/Docker Compose** and established secure **Ngrok** tunnels for frictionless integration testing with the client team.
-
----
-
-### 👁️ 2. End-to-End OCR Digit Classifier & Low-Level Simulations
-*A core computer science deep-dive project mapping high-level vision logic down to custom low-level algorithmic implementations.*
-
-*   **OCR Pipeline Engineering:** Engineered an Optical Character Recognition (OCR) application from scratch to classify handwritten digits (0-9) using foundational Machine Learning classification algorithms.
-*   **Signal to Feature:** Authored the entire data lifecycle including image preprocessing, digital noise reduction, and a manual pixel-grid feature extraction system to maximize model training precision.
-*   **Low-Level Binary Parsing:** Refactored a complex heat diffusion simulation matrix, stripping out random data generation in favor of a custom parser that reads and ingests raw structured matrix configurations directly from local binary storage files (`.bin`).
-
----
-
-### 🌐 3. Web Scraping & Algorithmic Search Engine
-*A high-throughput text data engineering project designed to scrape, clean, index, and query unstructured web data efficiently.*
-
-*   **Data Pipeline:** Developed a resilient web scraping network utilizing **BeautifulSoup** and **Scrapy** to ingest, parse, and clean massive amounts of unstructured data from targeted live domains.
-*   **Search Architecture:** Architected a lightweight custom search engine from the ground up, implementing index tokenization, text-based algorithmic filtering, and analytical ranking metrics.
-*   **Backend Engineering:** Wired the processing layer into a clean Python backend, ensuring sub-second query execution times and optimized data routing from storage to the client interface.
-
----
-
-## 📈 GitHub Metrics & Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sober-Migo&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&show_icons=true&theme=dark" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sober-Migo&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&theme=dark" alt="Top Languages" />
+  <a href="mailto:ahmed022magdy@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-magdy-50808a250"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/></a>
+  <a href="https://x.com/Sober_Migo"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" height="28"/></a>
+  <a href="https://www.kaggle.com/ahmed4magdy"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="28"/></a>
+  <a href="https://huggingface.co/Sober-Migo"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="28"/></a>
 </p>
 
 ---
 
-## 🤝 Let's Connect!
-*   **Email:** ahmed022magdy@gmail.com
-*   **LinkedIn:** <a href="https://www.linkedin.com/in/ahmed-magdy-50808a250" target="_blank" rel="noopener noreferrer">linkedin.com/in/ahmed-magdy-50808a250</a>
-*   **Kaggle:** <a href="https://www.kaggle.com/ahmed4magdy" target="_blank" rel="noopener noreferrer">kaggle.com/ahmed4magdy</a>
-*   **Hugging Face:** <a href="https://huggingface.co/Sober-Migo" target="_blank" rel="noopener noreferrer">huggingface.co/Sober-Migo</a>
-*   **GitHub:** <a href="https://github.com/Sober-Migo" target="_blank" rel="noopener noreferrer">github.com/Sober-Migo</a>
+<p align="center">
+  <i>Open to internships and junior AI / ML / backend roles — speech, RAG, and applied LLMs.</i>
+</p>
