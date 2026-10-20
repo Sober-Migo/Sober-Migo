@@ -13,6 +13,7 @@
 </div>
 
 <p align="center">
+  <a href="https://sober-migo.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-0D4430?style=for-the-badge" alt="Portfolio"/></a>
   <a href="mailto:ahmed022magdy@gmail.com"><img src="https://img.shields.io/badge/Email-ahmed022magdy%40gmail.com-0D4430?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/ahmed-magdy-50808a250"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Sober-Migo"><img src="https://img.shields.io/badge/GitHub-Sober--Migo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -33,6 +34,8 @@ Computer Science student at **Fayoum University — Faculty of Computers and Art
 I build **production-oriented AI systems**: speech analytics, multimodal pipelines, RAG apps, and FastAPI backends — with attention to async design, resource limits, and clean deployment.
 
 **Path:** Machine Learning → Deep Learning → NLP (DeepLearning.AI) → **IBM Generative AI Engineering with LLMs** (RAG, LangChain, PEFT/LoRA).
+
+**Portfolio:** [sober-migo.github.io](https://sober-migo.github.io/)
 
 ---
 
@@ -56,7 +59,7 @@ I build **production-oriented AI systems**: speech analytics, multimodal pipelin
 <td width="50%" valign="top">
 
 #### RAG — PDF Q&A
-[Sober-Migo/RAG](https://github.com/Sober-Migo/RAG)
+[Sober-Migo/RAG](https://github.com/Sober-Migo/RAG) · [HF Space](https://huggingface.co/spaces/Sober-Migo/RAG)
 
 PDF → local ONNX embeddings → Chroma → **Groq** generation · Gradio Markdown UI.
 
@@ -74,7 +77,7 @@ FastAPI speech backend: chunking, multi-model Egyptian Arabic analysis, Docker-r
 </tr>
 </table>
 
-**Also:** [HelloML](https://github.com/Sober-Migo/HelloML) · course labs for [ML](https://github.com/Sober-Migo/Coursera_Machine_Learning_Specialization) · [Deep Learning](https://github.com/Sober-Migo/Coursera_Deep_Learning_Specialization) · [NLP](https://github.com/Sober-Migo/NLP_Specialization) · [IBM GenAI with LLMs](https://github.com/Sober-Migo/IBM_Generative_AI_Engineering_with_LLMs_Specialization)
+**Also:** [HelloML](https://github.com/Sober-Migo/HelloML) · [Fasten_Your_Seat_Belts](https://github.com/Sober-Migo/Fasten_Your_Seat_Belts) (course catalog) · [ML](https://github.com/Sober-Migo/Coursera_Machine_Learning_Specialization) · [DL](https://github.com/Sober-Migo/Coursera_Deep_Learning_Specialization) · [NLP](https://github.com/Sober-Migo/NLP_Specialization) · [IBM GenAI](https://github.com/Sober-Migo/IBM_Generative_AI_Engineering_with_LLMs_Specialization)
 
 ---
 
