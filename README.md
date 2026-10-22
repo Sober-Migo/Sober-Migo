@@ -73,6 +73,8 @@ PDF → local ONNX embeddings → Chroma → **Groq** generation · Gradio Markd
 
 FastAPI speech backend: chunking, multi-model Egyptian Arabic analysis, Docker-ready pipeline for clinical-style audio workflows.
 
+<img src="https://raw.githubusercontent.com/Sober-Migo/PACE-Egyptian_Psychiatric_Speech_Analytics/main/assets/demo.gif" alt="PACE demo" width="100%"/>
+
 </td>
 </tr>
 </table>
